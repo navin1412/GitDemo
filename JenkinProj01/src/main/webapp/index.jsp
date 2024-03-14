@@ -1,4 +1,4 @@
 <%@page import="java.util.*" %>
 
-<h1>Welcome to jenkins::<%=new Date() %></h1>
+<h1 style="color:red">Welcome to jenkins::<%=new Date() %></h1>
 
